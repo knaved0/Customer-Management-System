@@ -1,5 +1,6 @@
-# My Awesome Project
+# Customer Management System 
 Customer Management System that allows CRUD operations on an admin page.  
+![Admin Page](Customer-Management-System/blob/master/Screenshot%20(414).png)
 
 **Link to project:** http://github.com/knaved0/Customer-Management-System
 
